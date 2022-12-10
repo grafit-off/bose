@@ -1,5 +1,5 @@
 # Landing page BOSE
-[DEMO LINK](https://grafit-off.github.io/layout_miami/)
+[DEMO LINK](https://grafit-off.github.io/bose/)
 
 ### 🎯Goal
 Create responsive and adaptive landing page according to the design in Figma
